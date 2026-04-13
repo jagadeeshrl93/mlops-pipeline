@@ -1,0 +1,10 @@
+{
+  "cpu_usage": 0.0724,
+  "memory_usage": 0.1052,
+  "error_rate": 0.4994,
+  "latency_p99": 0.0963,
+  "disk_usage": 0.0441,
+  "network_in": 0.0495,
+  "pod_restarts": 0.0888,
+  "hour_of_day": 0.0444
+}
