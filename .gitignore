@@ -6,6 +6,9 @@ __pycache__/
 dist/
 .DS_Store
 models/
-data/raw/
+data/
 mlruns/
+mlartifacts/
+mlflow.db
+*.db
 .sagemaker/
